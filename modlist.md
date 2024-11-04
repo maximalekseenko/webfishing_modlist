@@ -54,6 +54,7 @@
 *Why...*
 ### [webfishing_gun](https://thunderstore.io/c/webfishing/p/Colon_D/webfishing_gun/) by Colon_D
 *Not for fishing*
+### [RAYTRAC3RCosmetics](https://thunderstore.io/c/webfishing/p/RAYTRAC3R/RAYTRAC3RCosmetics/) by RAYTRAC3R
 
 # Map Mods
 **
