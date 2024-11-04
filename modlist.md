@@ -38,6 +38,8 @@
 ### [Capybara](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Capybara/) by GnarlyGnoll
 ### [Otters](https://thunderstore.io/c/webfishing/p/Racush/Otters/) by Racush
 ### [Deer](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Deer/) by GnarlyGnoll
+### [Awesome_Possums](https://thunderstore.io/c/webfishing/p/2cute2game/Awesome_Possums/) by 2cute2game
+
 # Items mods
 ### [Potato_Radio](https://thunderstore.io/c/webfishing/p/ThePotato/Potato_Radio/) by ThePotato
 *Adds radio that can play any music from youtube and other media websites (only radio owner can set music!)*
