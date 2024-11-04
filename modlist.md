@@ -22,6 +22,8 @@
 *Allows to see that big fish*
 ### [PrivateMessageing](https://thunderstore.io/c/webfishing/p/not_birds/PrivateMessageing/) by not_birds
 *Psst...*
+### [LonelyLoner](https://thunderstore.io/c/webfishing/p/Moonset/LonelyLoner/) by Moonset
+*Day/night cycle*
 
 # Species mods
 *These mods add new species to the game*
@@ -52,8 +54,6 @@
 *Why...*
 ### [webfishing_gun](https://thunderstore.io/c/webfishing/p/Colon_D/webfishing_gun/) by Colon_D
 *Not for fishing*
-### [LonelyLoner](https://thunderstore.io/c/webfishing/p/Moonset/LonelyLoner/) by Moonset
-*Day/night cycle*
 
 # Map Mods
 **
