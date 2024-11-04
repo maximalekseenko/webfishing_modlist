@@ -32,8 +32,7 @@
 ### [Zea_Foxes](https://thunderstore.io/c/webfishing/p/ZeaTheMays/Zea_Foxes/) by ZeaTheMays
 ### [Zea_Goats](https://thunderstore.io/c/webfishing/p/ZeaTheMays/Zea_Goats/) by ZeaTheMays
 ### [Zea_Raccoons](https://thunderstore.io/c/webfishing/p/ZeaTheMays/Zea_Raccoons/) by ZeaTheMays
-### [YeenBFishin](https://thunderstore.io/c/webfishing/p/DarnHyena/YeenBFishin/) by DarnHyena
-*didnt work last time*
+### ~~[YeenBFishin](https://thunderstore.io/c/webfishing/p/DarnHyena/YeenBFishin/) by DarnHyena~~
 ### [rabbit](https://thunderstore.io/c/webfishing/p/eng/rabbit/) by eng
 ### [Capybara](https://thunderstore.io/c/webfishing/p/GnarlyGnoll/Capybara/) by GnarlyGnoll
 ### [Otters](https://thunderstore.io/c/webfishing/p/Racush/Otters/) by Racush
@@ -59,5 +58,5 @@
 # Map Mods
 **
 ### [WB_Construct](https://thunderstore.io/c/webfishing/p/ZeaTheMays/WB_Construct/) by ZeaTheMays
-### [WebCraft](https://thunderstore.io/c/webfishing/p/etherealfields/WebCraft/) by etherealfields
+### ~~[WebCraft](https://thunderstore.io/c/webfishing/p/etherealfields/WebCraft/) by etherealfields~~
 ### [TreasureTroveCove](https://thunderstore.io/c/webfishing/p/haigen/TreasureTroveCove/) by haigen
