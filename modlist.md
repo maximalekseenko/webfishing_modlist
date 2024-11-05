@@ -50,8 +50,6 @@
 *Bunch of new fur colours for you to use*
 ### [LethalCosmetics](https://thunderstore.io/c/webfishing/p/ZeaTheMays/LethalCosmetics/) by ZeaTheMays
 *Cosmetics items from LC*
-### [Dick](https://thunderstore.io/c/webfishing/p/Kris2137/Dick/) by Kris2137
-*Why...*
 ### [webfishing_gun](https://thunderstore.io/c/webfishing/p/Colon_D/webfishing_gun/) by Colon_D
 *Not for fishing*
 ### [RAYTRAC3RCosmetics](https://thunderstore.io/c/webfishing/p/RAYTRAC3R/RAYTRAC3RCosmetics/) by RAYTRAC3R
